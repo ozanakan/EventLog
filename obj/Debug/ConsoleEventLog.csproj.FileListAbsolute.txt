@@ -1,0 +1,7 @@
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\bin\Debug\ConsoleEventLog.exe.config
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\bin\Debug\ConsoleEventLog.exe
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\bin\Debug\ConsoleEventLog.pdb
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\obj\Debug\ConsoleEventLog.csproj.AssemblyReference.cache
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\obj\Debug\ConsoleEventLog.csproj.CoreCompileInputs.cache
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\obj\Debug\ConsoleEventLog.exe
+C:\Users\massive\source\repos\ConsoleEventLog\ConsoleEventLog\obj\Debug\ConsoleEventLog.pdb
